@@ -89,3 +89,4 @@ async def setup_reports(ctx):
 # ضع توكن البوت الخاص بك هنا (بين علامتي التنصيص)
 
 bot.run("MTQ4MDk1OTY3OTgxODQ5ODE2MA.GHmYBT.oTmqVDRFIy5qYUsUHHyAe_rWwQdJ2EKBJhK5ww")
+
